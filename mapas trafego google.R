@@ -9,7 +9,7 @@ library(raster)
 library(dplyr)
 
 ## Set API key
-google_key <- "AIzaSyAEKjOgbOx-8viGtpCe_4cZ20_eTfft_W0"
+google_key <- "GOOGLE_KEY"
 
 
 
